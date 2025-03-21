@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Gowtham Channamsetty <a 
-<h3 align="center"><font face="Arial"><a href="www.linkedin.com/in/gowtham-channamsetty-67574527a" target="_blank" rel="noreferrer"></a> is a passionate DevOps Engineer, working on Cloud and DevOps for 5+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="www.linkedin.com/in/gowtham-channamsetty-67574527a" target="_blank" rel="noreferrer"></a>,a passionate DevOps Engineer, working on Cloud and DevOps for 5+ years now. Feel free to reach out for any Freelance Projects.</font></h3>
 
 
 <!-- GIF -->
